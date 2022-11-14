@@ -24,7 +24,7 @@ A Telegram bot to download TikTok videos without any watermark.
 
 ### Host on Okteto
 
-<p><a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/TerminalWarlord/TikTok-Downloader-Bot/"><img src="https://okteto.com/develop-okteto.svg" alt="Deploy to Okteto"/></a></p>
+<p><a href="https://cloud.okteto.com/#/deploy?repository=[https://github.com/TerminalWarlord/TikTok-Downloader-Bot/](https://github.com/lee-achao/AchaoLeeDLBot)"><img src="https://okteto.com/develop-okteto.svg" alt="Deploy to Okteto"/></a></p>
 
 
 
